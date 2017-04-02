@@ -1,7 +1,7 @@
 {
-  "name": "hexo-generator-index",
-  "version": "0.2.1",
-  "description": "Index generator for Hexo.",
+  "name": "hexo-generator-index-plus",
+  "version": "0.1.0",
+  "description": "Index generator plus for Hexo, which includes Top and UpdateDate.",
   "main": "index",
   "scripts": {
     "eslint": "eslint .",
@@ -15,15 +15,17 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "repository": "hexojs/hexo-generator-index",
-  "homepage": "http://hexo.io/",
+  "repository": "YuyingWu/hexo-generator-index-plus",
+  "homepage": "https://github.com/YuyingWu/hexo-generator-index-plus/blob/master/README.md",
   "keywords": [
     "hexo",
     "generator",
     "index",
-    "home"
+    "home",
+    "top",
+    "updateDate"
   ],
-  "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
+  "author": "Yuying Wu <wuyuying1128@gmail.com> (http://demo.wuyuying.com/)",
   "license": "MIT",
   "devDependencies": {
     "chai": "^3.4.0",
