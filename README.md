@@ -8,6 +8,9 @@ Index generator plus for [Hexo], which includes `top` and `updateDate` order rul
 $ npm install hexo-generator-index-plus --save
 ```
 
+* remove default generator `hexo-generator-index`
+* update hexo-cli's assets dependencies, from `hexo-generator-index` to `hexo-generator-index-plus`, node_modules/hexo-cli/assets/packgae.json
+
 ## Options
 
 Default order rules: 
