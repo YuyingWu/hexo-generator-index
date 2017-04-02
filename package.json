@@ -1,6 +1,6 @@
 {
   "name": "hexo-generator-index-plus",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "Index generator plus for Hexo, which includes Top and UpdateDate.",
   "main": "index",
   "scripts": {
