@@ -24,6 +24,9 @@ index_generator:
 - **path**: Root path for your blogs index page. (default = '')
 - **per_page**: Posts displayed per page. (0 = disable pagination)
 
+[ more to do for the next version ]
+- **order_by**: descend(default) | ascend
+
 ## Front-matter
 
 ```
