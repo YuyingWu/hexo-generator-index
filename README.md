@@ -20,7 +20,7 @@ Default order rules:
 `top` descending -> `updateDate` descending -> `date` descending
 
 ``` yaml
-index_generator:
+index_generator_plus:
   path: ''
   per_page: 10
 ```
