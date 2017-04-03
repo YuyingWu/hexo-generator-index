@@ -2,6 +2,9 @@
 
 Index generator plus for [Hexo], which includes `top` and `updateDate` order rules.
 
+[ **!!! Important** ]
+Please update your `hexo-generator-index-plus` to version 1.0.0+, cuz there is a bug for `updateDate` in beta versions under 1.0.0.
+
 ## Installation
 
 ``` bash
