@@ -12,7 +12,7 @@ $ npm install hexo-generator-index-plus --save
 ```
 
 * remove default generator `hexo-generator-index`
-* update hexo-cli's assets dependencies, from `hexo-generator-index` to `hexo-generator-index-plus`, node_modules/hexo-cli/assets/packgae.json
+* update hexo-cli's assets dependencies, from `hexo-generator-index` to `hexo-generator-index-plus`, node_modules/hexo-cli/assets/package.json
 
 ## Options
 
